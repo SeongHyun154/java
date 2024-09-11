@@ -1,4 +1,4 @@
-package C00; //패키지 명
+package CH00; //패키지 명
 
 public class C00HELLOWORLD  //클래스 영역 - 객체지향 문법 적용 단위
 {
